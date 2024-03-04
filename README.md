@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Mohamed's Website</title>
+
 </head>
 
 <body>
@@ -20,15 +20,7 @@
         </nav>
     </header>
 
-    <main>
-        <!-- Content specific to each page goes here -->
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Mohamed's Website</p>
-    </footer>
-
-    <script src="scripts.js"></script>
+  
 </body>
 
 </html>
