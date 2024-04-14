@@ -18,9 +18,7 @@
         </nav>
     </header>
 
-    <!-- Content for your homepage (index.html) -->
-    <h2>Welcome to Mohamed's Website</h2>
-    <p>This is the homepage content.</p>
+    
 
 </body>
 
